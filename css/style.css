@@ -1,0 +1,281 @@
+body {
+  background: #f6f6fa;
+  padding: 40px 40px 40px 40px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.wrapper {
+  background-color: white;
+  display: flex;
+  flex-direction: row-reverse;
+  width: 1200px;
+  margin: 0 auto;
+}
+/* Main content */
+.main-content {
+  padding: 88px 80px 40px 80px;
+  box-sizing: border-box;
+}
+/* Sidebar */
+.sidebar {
+  background-color: #e0ebfe;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  box-sizing: border-box;
+  width: 370px;
+}
+
+.sidebar-content {
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 40px;
+  box-sizing: border-box;
+}
+/* contacts */
+
+.contacts-title {
+  font-weight: 700;
+  font-size: 22px;
+  color: #161d2a;
+  line-height: normal;
+  margin-top: 0px;
+  margin-bottom: 8px;
+}
+
+.contacts-type {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  color: #161d2a;
+  margin-right: 8px;
+}
+
+.contacts-link {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #2979ff;
+  text-decoration: underline;
+}
+
+.contacts-item {
+  margin-top: 0px;
+  margin-bottom: 4px;
+}
+
+.Contacts-conteiner {
+  margin-bottom: 40px;
+}
+
+/* skills-conteiner */
+
+.skills-conteiner {
+  margin-bottom: 40px;
+}
+
+.skills-title {
+  font-weight: 700;
+  font-size: 22px;
+  color: #161d2a;
+  line-height: normal;
+  margin-top: 0px;
+  margin-bottom: 8px;
+}
+
+.skills-list {
+  padding-left: 16px;
+}
+
+.skills-list-item {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #161d2a;
+}
+
+.soft-skills-conteiner {
+  margin-bottom: 40px;
+}
+
+.soft-skills-title {
+  font-weight: 700;
+  font-size: 22px;
+  color: #161d2a;
+  line-height: normal;
+  margin-top: 0px;
+  margin-bottom: 8px;
+}
+.soft-skills-list {
+  padding-left: 16px;
+}
+
+.soft-skills-list-item {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #161d2a;
+}
+
+/* Main content */
+.my-profession {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 17px;
+  color: #000;
+  margin-top: 0px;
+  margin-bottom: 8px;
+}
+
+.my-name {
+  font-weight: 700;
+  font-size: 45px;
+  line-height: 122%;
+  color: #000;
+  margin-top: 0px;
+  margin-bottom: 12px;
+}
+
+.my-descr {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 171%;
+  color: #595959;
+  margin-top: 0px;
+}
+
+.my-info {
+  margin-bottom: 40px;
+}
+
+/* My projects */
+
+.My-projects-title {
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 123%;
+  color: #000;
+  margin-top: 0px;
+  margin-bottom: 8px;
+}
+
+.my-project-item {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  color: #000;
+}
+
+.My-projects-list {
+  padding-left: 16px;
+}
+
+.my-project-item-link {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 171%;
+  text-decoration: underline;
+  text-decoration-skip-ink: none;
+  color: #005fff;
+  padding-left: 14.1px;
+}
+
+.my-project-item-tech {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 171%;
+  color: #595959;
+}
+
+.My-projects-conteiner {
+  width: 526px;
+  margin-bottom: 40px;
+}
+
+/* Worl experience */
+
+.Worl-xperience-title {
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 123%;
+  color: #000;
+  margin-top: 0px;
+  margin-bottom: 8px;
+}
+
+.Company-title {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 125%;
+  color: #000;
+  margin-top: 0px;
+  margin-bottom: 12px;
+}
+
+.organizations {
+  color: #6d9bf5;
+}
+
+.employment-dates {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 125%;
+  color: #a8a8a8;
+  margin-top: 0px;
+}
+
+.separator {
+  color: #000;
+}
+
+.Worl-experience {
+  width: auto;
+  margin-bottom: 40px;
+}
+
+.job-responsibilities {
+  padding-left: 24px;
+}
+
+.responsibility-item {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 171%;
+  color: #595959;
+}
+
+.job-entry {
+  margin-bottom: 12px;
+}
+
+/* Education */
+
+.Education-title {
+  font-weight: 700;
+  font-size: 22px;
+  color: #000;
+  margin-top: 0px;
+  margin-bottom: 8px;
+}
+
+.institution-name {
+  font-weight: 700;
+  font-size: 16px;
+  color: #6d9bf5;
+  margin-top: 0px;
+  margin-bottom: 8px;
+}
+
+.degree-info {
+  font-weight: 700;
+  font-size: 14px;
+  color: #000;
+  margin-top: 0;
+  margin-bottom: 8px;
+}
+
+.education-dates {
+  font-weight: 400;
+  font-size: 12px;
+  color: #a8a8a8;
+  margin-top: 0;
+}
